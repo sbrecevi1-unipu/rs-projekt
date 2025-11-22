@@ -144,6 +144,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# My stuff
+.qodo
+
 # Spyder project settings
 .spyderproject
 .spyproject
